@@ -24,9 +24,9 @@ namespace RMS_Web
     {
         // TODO: Replace with your URL here.
         private static readonly Uri HomeUri = new Uri("https://www.stoneseed-rms.co.uk", UriKind.Absolute);
-        private static readonly Uri ExpenseUri = new Uri("https://www.stoneseed-rms.co.uk/faces/my-rms/expenses", UriKind.Absolute);
-        private static readonly Uri HolidayUri = new Uri("https://www.stoneseed-rms.co.uk/faces/my-rms/holidays", UriKind.Absolute);
-        private static readonly Uri AbsenceUri = new Uri("https://www.stoneseed-rms.co.uk/faces/my-rms/absences", UriKind.Absolute);
+        private static readonly Uri ExpenseUri = new Uri("https://www.stoneseed-rms.co.uk/faces/my-rms/expenses/index.xhtml", UriKind.Absolute);
+        private static readonly Uri HolidayUri = new Uri("https://www.stoneseed-rms.co.uk/faces/my-rms/holidays/index.xhtml", UriKind.Absolute);
+        private static readonly Uri AbsenceUri = new Uri("https://www.stoneseed-rms.co.uk/faces/my-rms/absences/index.xhtml", UriKind.Absolute);
 
         public MainPage()
         {

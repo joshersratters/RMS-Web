@@ -47,6 +47,11 @@
                     x:Uid="HolidaysAppBarButton"
                                                       
                     Label="holidays"/>
+                <AppBarButton x:ConnectionId='7'
+                    x:Name="AbsencesAppBarButton"
+                    x:Uid="AbsencesAppBarButton"
+                                                      
+                    Label="absences"/>
             </CommandBar.SecondaryCommands>
         </CommandBar>
     </Page.BottomAppBar>

@@ -30,3 +30,35 @@ c:\users\joshua ratcliffe\documents\visual studio 2015\Projects\RMS Web\RMS Web\
 c:\users\joshua ratcliffe\documents\visual studio 2015\Projects\RMS Web\RMS Web\obj\Debug\qualifiers.txt.intermediate
 c:\users\joshua ratcliffe\documents\visual studio 2015\Projects\RMS Web\RMS Web\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\users\joshua ratcliffe\documents\visual studio 2015\Projects\RMS Web\RMS Web\obj\Debug\ProjectArchitectures.txt
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\bin\Debug\App.xbf
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\bin\Debug\MainPage.xbf
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\bin\Debug\RMS Web.xr.xml
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\bin\Debug\RMS Web.exe
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\bin\Debug\RMS Web.pdb
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\bin\Debug\resources.pri
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\bin\Debug\AppxManifest.xml
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\bin\Debug\RMS Web.build.appxrecipe
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\App.g.i.cs
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\App.g.cs
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\MainPage.g.i.cs
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\MainPage.g.cs
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\App.xaml
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\MainPage.xaml
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\App.xbf
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\MainPage.xbf
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\RMS Web.exe
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\RMS Web.pdb
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\priconfig.xml
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\priconfig.xml.intermediate
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\layout.resfiles
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\layout.resfiles.intermediate
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\resources.resfiles
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\resources.resfiles.intermediate
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\pri.resfiles
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\pri.resfiles.intermediate
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\qualifiers.txt
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Joshua\Documents\GitHub\RMS-Web\RMS Web\obj\Debug\ProjectArchitectures.txt
