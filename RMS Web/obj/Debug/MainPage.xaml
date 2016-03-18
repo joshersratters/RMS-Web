@@ -1,0 +1,54 @@
+﻿<Page
+    x:Class="RMS_Web.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RMS_Web"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <WebView x:ConnectionId='1' x:Name="WebViewControl"
+             HorizontalAlignment="Stretch"
+             VerticalAlignment="Stretch"
+             Source="http://www.stoneseed-rms.co.uk"
+                                                                                                            />
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:ConnectionId='2'
+                    x:Name="BackAppBarButton"
+                    x:Uid="BackAppBarButton"
+                                                  
+                    Icon="Back"
+                    Label="back"/>
+                <AppBarButton x:ConnectionId='3'
+                    x:Name="HomeAppBarButton"
+                    x:Uid="HomeAppBarButton"
+                                                  
+                    Icon="Home"
+                    Label="home"/>
+                <AppBarButton x:ConnectionId='4'
+                    x:Name="ForwardAppBarButton"
+                    x:Uid="ForwardAppBarButton"
+                                                     
+                    Icon="Forward"
+                    Label="forward"/>
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:ConnectionId='5'
+                    x:Name="ExpensesAppBarButton"
+                    x:Uid="ExpensesAppBarButton"
+                                                      
+                    Label="expenses"/>
+                <AppBarButton x:ConnectionId='6'
+                    x:Name="HolidaysAppBarButton"
+                    x:Uid="HolidaysAppBarButton"
+                                                      
+                    Label="holidays"/>
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

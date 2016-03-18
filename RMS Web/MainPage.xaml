@@ -1,0 +1,58 @@
+﻿<Page
+    x:Class="RMS_Web.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RMS_Web"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <WebView x:Name="WebViewControl"
+             HorizontalAlignment="Stretch"
+             VerticalAlignment="Stretch"
+             Source="http://www.stoneseed-rms.co.uk"
+             NavigationCompleted="Browser_NavigationCompleted" LoadCompleted="WebViewControl_LoadCompleted" />
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.PrimaryCommands>
+                <AppBarButton
+                    x:Name="BackAppBarButton"
+                    x:Uid="BackAppBarButton"
+                    Click="BackAppBarButton_Click"
+                    Icon="Back"
+                    Label="back"/>
+                <AppBarButton
+                    x:Name="HomeAppBarButton"
+                    x:Uid="HomeAppBarButton"
+                    Click="HomeAppBarButton_Click"
+                    Icon="Home"
+                    Label="home"/>
+                <AppBarButton
+                    x:Name="ForwardAppBarButton"
+                    x:Uid="ForwardAppBarButton"
+                    Click="ForwardAppBarButton_Click"
+                    Icon="Forward"
+                    Label="forward"/>
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton
+                    x:Name="ExpensesAppBarButton"
+                    x:Uid="ExpensesAppBarButton"
+                    Click="ExpensesAppBarButton_Click"
+                    Label="expenses"/>
+                <AppBarButton
+                    x:Name="HolidaysAppBarButton"
+                    x:Uid="HolidaysAppBarButton"
+                    Click="HolidaysAppBarButton_Click"
+                    Label="holidays"/>
+                <AppBarButton
+                    x:Name="AbsencesAppBarButton"
+                    x:Uid="AbsencesAppBarButton"
+                    Click="AbsencesAppBarButton_Click"
+                    Label="absences"/>
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
